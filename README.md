@@ -1,1 +1,1 @@
-# BMC-BMcoin-
+# BMC-BMcoin
