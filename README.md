@@ -1,3 +1,3 @@
 # Broadcast Message Network
 
-A peer-to-peer messaging, broadcasting and social network.
+A decentralized peer-to-peer messaging, broadcasting and social network system.
