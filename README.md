@@ -19,3 +19,12 @@ BMC may have some of the following functions on the Broadcast Message Network:
 Other cool functions are also open for proposal.
 
 The bottom line is that we should make it super simple to understand and friendly to use.
+
+How P2P messaging works on BMC network?
+![How1](https://user-images.githubusercontent.com/79610310/111555054-cbb38d80-8744-11eb-8cba-5ea3e43b4974.png)
+
+How Decentralized Microblogging works on BMC network？
+![How2](https://user-images.githubusercontent.com/79610310/111555101-e8e85c00-8744-11eb-829f-4aea58a08076.png)
+
+How Broadcasting works on BMC network?![How3](https://user-images.githubusercontent.com/79610310/111555113-ee45a680-8744-11eb-928f-5f083e7bd9af.png)
+
