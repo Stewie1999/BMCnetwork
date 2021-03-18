@@ -1,6 +1,6 @@
 # BMC Network
 
-A decentralized peer-to-peer messagging, mircoblogging and broadcasting system.
+BMC Network --- A decentralized peer-to-peer messagging, mircoblogging and broadcasting system.
 
 Introducing Broadcast Message Coin (BMC) and Its Functions:
 
@@ -15,10 +15,10 @@ BMC may have some of the following functions on the Broadcast Message Network:
 4. To purchase special limited avatars, collectable items and other digital assets.
 
 
-
 Other cool functions are also open for proposal.
 
 The bottom line is that we should make it super simple to understand and friendly to use.
+
 
 ## How P2P messaging works on BMC network?
 ![How1](https://user-images.githubusercontent.com/79610310/111555054-cbb38d80-8744-11eb-8cba-5ea3e43b4974.png)
