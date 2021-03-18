@@ -26,6 +26,6 @@ The bottom line is that we should make it super simple to understand and friendl
 ## How Decentralized Microblogging works on BMC network？
 ![How2](https://user-images.githubusercontent.com/79610310/111555101-e8e85c00-8744-11eb-829f-4aea58a08076.png)
 
-## Build## Build## BuildHow Broadcasting works on BMC network?
+## How Broadcasting works on BMC network?
 ![How3](https://user-images.githubusercontent.com/79610310/111555113-ee45a680-8744-11eb-928f-5f083e7bd9af.png)
 
