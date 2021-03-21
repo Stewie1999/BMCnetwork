@@ -1,18 +1,19 @@
-# BMC Network
+## BMC Network
 
 <p align="center">
   <img width="300" src="https://user-images.githubusercontent.com/79610310/111893972-01b27500-89c4-11eb-8d99-ebdf4c8c6382.png")
 </p>
 
-# BMC Network --- A decentralized peer-to-peer messagging and social network
+## BMC Network --- A decentralized peer-to-peer messaging and social network
 
-BMC Network aims to be a plan B for centralized messenging and social networks like Whatsapp, Messenger, Telegram, Wechat, Twitter and Facebook
+# BMC Network aims to be a plan B for centralized messeging and social networks like Whatsapp, Messenger, Telegram, Wechat, Twitter and Facebook
+
 It's permissionless to join and use. 
 It's unstoppable. 
 It's decentralized.
 You 100% own your account and there is no authority can take your account down.
 
-# Introducing Broadcast Message Coin (BMC)
+## Introducing Broadcast Message Coin (BMC)
 
 BMC may have some of the following functions on the Broadcast Message Network:
 1. Incentives for BM Network node-runners.
