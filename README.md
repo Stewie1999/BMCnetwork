@@ -4,7 +4,7 @@
   <img width="300" src="https://user-images.githubusercontent.com/79610310/111893972-01b27500-89c4-11eb-8d99-ebdf4c8c6382.png")
 </p>
 
-## BMC Network --- A decentralized peer-to-peer messaging and social network
+## BMC Network --- A decentralized peer-to-peer messaging and social network. Broadcast Message to the whole world.
 
 # BMC Network aims to be a plan B for centralized messeging and social networks like Whatsapp, Messenger, Telegram, Wechat, Twitter and Facebook
 
