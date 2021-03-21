@@ -34,3 +34,20 @@ BMC may have some of the following functions on the Broadcast Message Network:
 4. To purchase special limited avatars, collectable items and other digital assets.
 Other cool functions are also open for proposal.
 
+# Permissioned vs Permissionless, Free vs Costly
+
+In some current decentralized social network like Voice, it’s not permissionless to join. You need to pass a specific authentication system to ensure you are human and that process will expose a lot of your personal info. But on BMC Network, we make it permissionless to join. You just need to have a wallet address to be your account. You just need to share your address to your friends so you can start P2P messaging to each other. It will not cost you BMC to use basic P2P messaging.
+
+For microblogging, you can post a blog anytime at very small cost in BMC and you can choose to make it public so everyone can see it or private (encrypted). To compensate bloggers, bloggers can charge a price in BMC for viewer to see private posts. It can be a one-time cost per post or a subscription plan.
+
+For broadcasting, in order to limit spamming, a relatively high cost in BMC will be incurred to perform a broadcast.
+
+# Governance vs Anarchism, Egoism vs Altruism
+
+Base on the chaos happened to many projects before like Tezos, EOS, Sushi and etc., we decide to go Anarchism instead to avoid the unpredictable chaos in the future. We cannot satisfy everyone’s requirements and the arguments can be endless.
+
+At the very beginning, we plan to build the project just for ourselves and our friends to use because we have been fed up with bullshit from those centralized platform. Then those egoism may lead to altruism as others may benefit from BMC Network too once it’s running.
+
+As Harry Truman said:
+It is amazing what you can accomplish if you do not care who gets the credit.
+
