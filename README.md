@@ -28,10 +28,11 @@
 ## Introducing Broadcast Message Coin (BMC)
 
 BMC may have some of the following functions on the Broadcast Message Network:
-1. Incentives for BM Network node-runners.
-2. Fuel to perform some special functions on the network. For example performing a super broadcasting on the whole network to reach millions of audience.
+1. Incentives for BMC Network node-runners.
+2. Fuel to perform some special functions on the network. For example performing a super broadcast on the whole network to reach millions of audience.
 3. To pay/tip/subscribe bloggers’ exclusive contents.
 4. To purchase special limited avatars, collectable items and other digital assets.
+
 Other cool functions are also open for proposal.
 
 # Permissioned vs Permissionless, Free vs Costly
