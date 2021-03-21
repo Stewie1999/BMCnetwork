@@ -8,8 +8,8 @@
 
 # BMC Network aims to be a plan B for centralized messeging and social networks like Whatsapp, Messenger, Telegram, Wechat, Twitter and Facebook
 
-It's permissionless to join and use. 
-It's unstoppable. 
+It's permissionless to join and use.
+It's unstoppable.
 It's decentralized.
 You 100% own your account and there is no authority can take your account down.
 
