@@ -1,6 +1,7 @@
 # BMC Network
+
 <p align="center">
-![BMC Logo copy](https://user-images.githubusercontent.com/79610310/111893972-01b27500-89c4-11eb-8d99-ebdf4c8c6382.png)
+  <img width="300" src="https://user-images.githubusercontent.com/79610310/111893972-01b27500-89c4-11eb-8d99-ebdf4c8c6382.png")
 </p>
 
 # BMC Network --- A decentralized peer-to-peer messagging and social network
