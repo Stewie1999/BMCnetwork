@@ -1,5 +1,5 @@
 # BMC Network
-![Uploading BMC Logo.png…]()
+![BMC Logo](https://user-images.githubusercontent.com/79610310/111893951-df205c00-89c3-11eb-8f8c-f50f4b4d2c91.png)
 
 BMC Network --- A decentralized peer-to-peer messagging, mircoblogging and broadcasting system.
 
